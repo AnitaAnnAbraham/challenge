@@ -1,0 +1,1 @@
+2022-05-31 22:36:32,310  INFO [main] LoggingUtil:77 - Element found to visible [[ChromeDriver: chrome on WINDOWS (0b0d7b10d490a4ab0ad610df459fe33e)] -> xpath: //button[text()='Place Order']]
